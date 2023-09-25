@@ -1,0 +1,15 @@
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.csproj.AssemblyReference.cache
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\MainWindow.g.cs
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\App.g.cs
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine_MarkupCompile.cache
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine_MarkupCompile.lref
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\bin\Debug\Currency_Exchange_Machine.exe.config
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\bin\Debug\Currency_Exchange_Machine.exe
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\bin\Debug\Currency_Exchange_Machine.pdb
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\MainWindow.baml
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.g.resources
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.Properties.Resources.resources
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.csproj.GenerateResource.cache
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.csproj.CoreCompileInputs.cache
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.exe
+D:\DOBROpm7C#\7. Currency_Exchange_Machine\Currency_Exchange_Machine\Currency_Exchange_Machine\obj\Debug\Currency_Exchange_Machine.pdb
